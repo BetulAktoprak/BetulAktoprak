@@ -20,7 +20,7 @@ Yazılım geliştirme, sadece teknolojik bir alan değil; aynı zamanda yaratıc
 ## 🌐 Bana Ulaşın
 - **LinkedIn:** [LinkedIn profilim](https://linkedin.com/in/betül-a-041728183)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BetulAktoprak&theme=radical)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=BetulAktoprak&layout=compact&theme=radical)
 
 Her türlü iş birliği ve fikir alışverişi için bana ulaşabilirsiniz. Kod yazarken öğrenmenin ve paylaşmanın gücüne inanıyorum. 🚀  
 
