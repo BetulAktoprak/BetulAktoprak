@@ -20,11 +20,10 @@ Yazılım geliştirme, sadece teknolojik bir alan değil; aynı zamanda yaratıc
 ## 🌐 Bana Ulaşın
 - **LinkedIn:** [LinkedIn profilim](https://linkedin.com/in/betül-a-041728183)
 
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=BetulAktoprak&layout=compact&theme=radical)
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=BetulAktoprak&show_icons=true&theme=radical)
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=BetulAktoprak&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BetulAktoprak&theme=radical)
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=BetulAktoprak&show_icons=true&theme=tokyonight)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=BetulAktoprak&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BetulAktoprak&theme=tokyonight)
+![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=BetulAktoprak&hide=stars,forks&show_icons=true&theme=tokyonight)
+
 
 Her türlü iş birliği ve fikir alışverişi için bana ulaşabilirsiniz. Kod yazarken öğrenmenin ve paylaşmanın gücüne inanıyorum. 🚀  
 
