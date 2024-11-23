@@ -18,7 +18,7 @@ Yazılım geliştirme, sadece teknolojik bir alan değil; aynı zamanda yaratıc
 - Büyük ölçekli, performans odaklı projelerde rol almak.  
 
 ## 🌐 Bana Ulaşın
-- **LinkedIn:** [LinkedIn profiliniz](https://linkedin.com/in/betül-a-041728183)
+- **LinkedIn:** [LinkedIn profilim](https://linkedin.com/in/betül-a-041728183)
 
 ![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=BetulAktoprak&show_icons=true&theme=tokyonight)
 
